@@ -427,3 +427,8 @@ zigbeeManufacturer:
     manufacturer: _TZ3000_qja6nq5z
     model: TS004F
     deviceProfileName: zigbee-tuya-button-knob
+  - id: HOBEIAN/ZG-101ZL
+    deviceLabel: Zigbee Tuya 1 Button
+    manufacturer: HOBEIAN
+    model: ZG-101ZL
+    deviceProfileName: zigbee-tuya-button-1    
